@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Only a Sith deals with Absolutes**
 Use the left arrow to go back!
